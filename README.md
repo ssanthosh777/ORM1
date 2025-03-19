@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 
+## Date: 19/03/2024
 
 ## AIM
 To develop a Django application to store and retrieve data from a Movies Database using Object Relational Mapping(ORM).
@@ -22,8 +22,7 @@ Execute Django admin and create details for 10 books
 ## PROGRAM
 
 ## OUTPUT
-
-Include your output imagr
+![alt text](<Screenshot (117).png>)
 
 ## RESULT
 Thus the program for creating movies database using ORM hass been executed successfully
